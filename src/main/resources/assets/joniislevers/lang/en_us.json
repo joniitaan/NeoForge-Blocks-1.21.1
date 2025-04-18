@@ -3,5 +3,6 @@
   "item.joniislevers.raw_bismuth": "Raw Bismuth",
 
   "block.joniislevers.bismuth_block": "Block of Bismuth",
-  "block.joniislevers.bismuth_ore": "Bismuth Ore"
+  "block.joniislevers.bismuth_ore": "Bismuth Ore",
+  "block.joniislevers.bismuth_deepslate_ore": "Deepslate Bismuth Ore"
 }
