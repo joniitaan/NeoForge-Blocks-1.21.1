@@ -69,6 +69,10 @@ public class JoniisLevers
             event.accept(ModBlocks.BISMUTH_ORE);
             event.accept(ModBlocks.BISMUTH_DEEPSLATE_ORE);
         }
+
+        if (event.getTabKey() == CreativeModeTabs.REDSTONE_BLOCKS) {
+            event.accept(ModBlocks.BISMUTH_LEVER);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
